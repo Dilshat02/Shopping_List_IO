@@ -1,0 +1,6 @@
+Samsung
+250000
+Iphone
+200000
+Xiaomi
+150000
